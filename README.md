@@ -67,16 +67,29 @@ Source: https://www.ibm.com/topics/exploratory-data-analysis
 
 ![null](https://user-images.githubusercontent.com/127090462/224044712-e144e67a-d4a3-48c4-85a0-6936bd59d711.JPG)
 
+- **Added new columns for analysis** </br>
+ a) Continent -> vlookup/xlookup from Country </br>
+ b) Goals per game/Attendance per game - Excel Calculations </br>
+
 ## Dashboards
+
+I divided my analysis into 3 main dashboards.
+
+**Graph charts used in analysis:**
+- Stacked column chart
+- Card
+- Table
+- Donut chart
+- Clustered column chart
+- Funnel
 
 1. **Fifa World Cup All Tournament Statistics**
 
-![Fifa_World_Cup_Statistics](https://user-images.githubusercontent.com/127090462/224028023-12368135-60ed-4d97-8076-fa3b0332411d.JPG)
+![Fifa_World_Cup_Statistics](https://user-images.githubusercontent.com/127090462/224049869-47ce54bc-0bea-4e0a-ba75-ddc3f3de1c03.JPG)
 
 2. **Top teams performance**
 
 ![Top_Teams](https://user-images.githubusercontent.com/127090462/224028099-8d2382f7-bcdc-466c-bcd0-9e02c68e4ec1.JPG)
-
 
 3. **Goals/matches statistics**
 
