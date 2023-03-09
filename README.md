@@ -73,7 +73,27 @@ Source: https://www.ibm.com/topics/exploratory-data-analysis
 
 ## Dashboards
 
-I divided my analysis into 3 main dashboards.
+I divided my analysis into 3 main dashboard </br>
+1. **Fifa World Cup All Tournament Statistics**
+
+General information about all World Cup Tournaments:
+- Sum of scored goals - 2548 (distribution is diversified as first tournaments started with 18 games, nowadays it's 64 games)
+- Avg goals per game - 2,83 goals
+- List of Winners - Brazil has most wins so far - 5, there are only 8 unique champions (West Germany and Germany we can treat as 1 country)
+- Hosts of tournament by continent - out of 21 tournaments, 11 were organized in Europe 
+
+2. **Top teams performance**
+
+Analysis of top teams which reached top 3 places:
+- List of all countries which reached top 3 places at least once
+- Germany played 8 times in final and won 4 times (50%), Brazil won 5 times playing 7 times in final 71,4%
+- Uruguay, England and Spain have 100% winning ratio of finals
+
+3. **Goals/matches statistics**
+Analysis of goals, matches statistics
+- Brazil is the only team which played in all 21 tournaments so far. 
+- The best ratio of goals per game have Hungary - 2,72
+- Germany played the most games in all tournaments - 115
 
 **Graph charts used in analysis:**
 - Stacked column chart
@@ -89,7 +109,7 @@ I divided my analysis into 3 main dashboards.
 
 2. **Top teams performance**
 
-![Top_Teams](https://user-images.githubusercontent.com/127090462/224028099-8d2382f7-bcdc-466c-bcd0-9e02c68e4ec1.JPG)
+![Top_teams](https://user-images.githubusercontent.com/127090462/224067623-408c7f54-6392-4b44-bcb7-e8c668d517c2.JPG)
 
 3. **Goals/matches statistics**
 
