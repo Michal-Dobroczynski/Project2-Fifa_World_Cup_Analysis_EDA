@@ -36,6 +36,15 @@ Example of data: Columns inside the dataset include year, country, city for the 
 This dataset includes 21 observations, with 10 columns mixed between categorical and numerical values.
 Example of data: contains information about winners, second, third, fourth places, goals scored and attendance per tournament and many more.
 
+**Wcmatches**
+
+![wc_matches](https://user-images.githubusercontent.com/127090462/224045218-956f21ca-d3e6-46e5-82c4-8fed629aa718.JPG)
+
+
+**World_cups**
+
+![world_cups](https://user-images.githubusercontent.com/127090462/224045230-e65c1492-794c-49c9-b49a-6b4b2329c3f0.JPG)
+
 ## Exploratory Data Analysis (EDA)
 
 Exploratory data analysis (EDA) is used by data scientists to analyze and investigate data sets and summarize their main characteristics, often employing data visualization methods. It helps determine how best to manipulate data sources to get the answers you need, making it easier for data scientists to discover patterns, spot anomalies, test a hypothesis, or check assumptions. </br>
@@ -49,7 +58,14 @@ Source: https://www.ibm.com/topics/exploratory-data-analysis
 - Cleaning/Transforming dataset (Excel + Power Query)
 - Data analytics and Visualizing Data (Power BI)
 
-**Steps of data cleaning/transformation done**
+**Steps of data cleaning/transformation done** (Excel, Power Query)
+
+1. **Data cleaning**
+
+- **Duplicates** - no duplicates found in datasets
+- **Missing data** - null values, the only column (win_conditions) which has null values is in dataset - wcmatches. Anyway we can ignore that fact as it won't be analyzed, it is only informative column. We have got filled in only these fields when match ended in draw and it wasn’t the group stage of the tournament. For example, win in extra time (AET - after extra time), by penalties. 
+
+![null](https://user-images.githubusercontent.com/127090462/224044712-e144e67a-d4a3-48c4-85a0-6936bd59d711.JPG)
 
 ## Dashboards
 
